@@ -1,0 +1,28 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=D2E29BD1_002D89CC_002D2FEF_002D727F_002D82F02820AA85_002Fd_003APrivate_002Fd_003ACore_002Ff_003AFCNavigationGridBuilder_002Ecpp/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=63fd2fbb_002D4d5c_002D4db0_002D8dc1_002Da48bafec8428/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestPerlinMaskValue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Math.TestPerlinMaskValue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=95ef562d_002D89e2_002D4af7_002Db01d_002D6205d6c3b0d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MaxInt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Math.MaxInt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba83057e_002Da99a_002D4c55_002D9aac_002Ddeda4af2eaf9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MaxInt #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Math.MaxInt&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Math.TestPerlinMaskValue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d2a3a808_002D1ce2_002D486e_002Dbad0_002Dbac24bb1cbcd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FTestNavigationGrid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Math.FTestNavigationGrid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Math.TestPerlinMaskValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Math.FTestNeighborsNavigationGrid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Math.FTestCalculationВiomesIndex&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Math.FTestCalculationBiomesIndex&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::D2E29BD1-89CC-2FEF-727F-82F02820AA85::::RunForestVR.Items.Biomes.FCppActorCanBeCreated&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

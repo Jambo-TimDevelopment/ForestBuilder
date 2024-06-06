@@ -1,0 +1,16 @@
+# Типы файлов Unreal Engine.
+filter.uasset *=lfs diff=lfs слияние=lfs -текст
+filter.umap *=lfs diff=lfs merge=lfs -текст
+
+# Типы файлов содержимого Raw.
+фильтр.fbx *=lfs разница=lfs слияние=lfs -текст
+filter.3ds *=lfs diff=lfs merge=lfs -текст
+filter.psd *=lfs diff=lfs merge=lfs -текст
+filter.png *=lfs diff=lfs merge=lfs -текст
+filter.mp3 *=lfs diff=lfs merge=lfs -текст
+filter.wav *=lfs diff=lfs merge=lfs -текст
+filter.xcf *=lfs diff=lfs merge=lfs -текст
+filter.jpg *=lfs diff=lfs merge=lfs -текст
+
+# Что-нибудь в каталоге `/RawContent`.
+/RawContent/**/* filter=lfs diff=lfs merge=lfs -текст
